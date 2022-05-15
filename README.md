@@ -6,3 +6,6 @@ A tutorial repository
 
 ## 2019-11-24
 GitHub Actions で、一つの Action を作りました。
+
+## 2022-5-15
+pull_request を試してみました。
