@@ -15,3 +15,4 @@ pull_request を試してみました。
 
 ## 2023-04-08
 “personal access token has expired” だそうです。つまり、この更新は git push できないのですね。
+本当にプッシュできないのか確認したいと思います。
