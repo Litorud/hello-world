@@ -12,3 +12,6 @@ pull_request を試してみました。
 
 ## 2022-5-21
 レバー食べられるようになった
+
+## 2023-04-08
+“personal access token has expired” だそうです。つまり、この更新は git push できないのですね。
